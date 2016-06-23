@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_fcf871589c5f4ec4fb8270b9906d533585d3e871\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\JSY\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_d633d79c503486772ccfe48cd69082d7d4be407b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="598f4f8daf2c07587949656108de7ffc7829a4d3">
+        <dex dex="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c4e93bb0e68baebd350ced100c2e0b37ca97bd63\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="54c096b26e6939abc4af407b6b2572058e6d5a7d">
+        <dex dex="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1949f769f8056fba9bed3aa21b01e412c45b7146\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_4ed1f9ef0b77f6040d25fb2d03f45527c5a98754\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\JSY\Desktop\BT Guitar1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_b82cd8f9ef3bcfe35bbe5fc85c880b9ea18a423a\classes.dex" />
+    </item>
+
+</items>
